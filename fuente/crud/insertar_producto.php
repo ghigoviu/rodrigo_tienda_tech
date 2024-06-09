@@ -9,6 +9,4 @@
     $insercion = mysqli_query($conexion, $sql);
 
     header('Location: ../../');
-    //$insercion->exec();
-
 ?>
